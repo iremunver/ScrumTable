@@ -1,0 +1,44 @@
+C:\Users\irem ünver\Desktop\Scrum\Scrum\bin\Debug\Scrum.exe.config
+C:\Users\irem ünver\Desktop\Scrum\Scrum\bin\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum\Scrum\bin\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.Form1.resources
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.Scrum_Table.resources
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.csproj.GenerateResource.Cache
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum\Scrum\obj\Debug\Scrum.Ekle.resources
+C:\Users\irem ünver\Desktop\Scrum\Scrum\bin\Debug\dbScrum.mdb
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\bin\Debug\Scrum.exe.config
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\bin\Debug\dbScrum.mdb
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\bin\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\bin\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.Ekle.resources
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.Form1.resources
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.Scrum_Table.resources
+C:\Users\irem ünver\Desktop\Scrum - Kopya\Scrum\obj\Debug\Scrum.csproj.GenerateResource.Cache
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\bin\Debug\Scrum.exe.config
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\obj\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\obj\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\obj\Debug\Scrum.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\obj\Debug\Scrum.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\obj\Debug\Scrum.Scrum.resources
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\obj\Debug\Scrum.csproj.GenerateResource.Cache
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\bin\Debug\dbScrum.mdb
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\bin\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum - Kopya - Kopya\Scrum\bin\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\bin\Debug\Scrum.exe.config
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\obj\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\obj\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\bin\Debug\dbScrum.mdb
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\bin\Debug\Scrum.exe
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\bin\Debug\Scrum.pdb
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\obj\Debug\Scrum.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\obj\Debug\Scrum.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\obj\Debug\Scrum.Scrum.resources
+C:\Users\irem ünver\Desktop\Scrum - calisan\Scrum\obj\Debug\Scrum.csproj.GenerateResource.Cache
