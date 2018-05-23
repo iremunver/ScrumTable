@@ -1,0 +1,1 @@
+Yazýlým yapýmý dönem sonu projesi.
